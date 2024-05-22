@@ -1,0 +1,29 @@
+# Website authors (alphabetical by key)
+
+jwaldrop:
+  name: "Jonathan M. Waldrop"
+  avatar: 
+  bio: Ames National Laboratory Scientist
+  location: "Ames, IA"
+  email: "jwaldrop@ameslab.gov"
+
+rrichard:
+  name: "Ryan M. Richard"
+  avatar: "/assets/stock_avatar.png"
+  bio: >-
+    Ames National Laboratory Scientist and Adjunct Professor of
+    chemistry at Iowa State University. Interested in quantum
+    chemistry, computer science, and software engineering.
+  location: "Ames, IA"
+  email: "rrichard@ameslab.gov"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ryanmrichard"
+
+yzhang:
+  name: "Yu Zhang"
+  avatar: 
+  bio: Ames National Laboratory Scientist
+  location: "Ames, IA"
+  email: "yzhang23@ameslab.gov"
